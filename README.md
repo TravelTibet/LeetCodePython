@@ -17,9 +17,9 @@
 
 | 序号 | 题名                                    | 超链接                                   |
 |----|---------------------------------------|---------------------------------------|
-| 1  | twoSun                                | [两数之和题解](./Solution/1-100/1)          |
+| 1  | twoSun                                | [两数之和题解](./Solution/1-100/1.md)       |
 | 26 | Remove_duplicates_from _rdered_arrays | [删除有序数组中的重复项](./Solution/1-100/26.md) |
-| 27 | Remove_elements                       | [删除元素（双指针法）](./Sulution/1-100/27.md)  |
+| 27 | Remove_elements                       | [删除元素（双指针法）](./Solution/1-100/27.md)  |
 
 
 
