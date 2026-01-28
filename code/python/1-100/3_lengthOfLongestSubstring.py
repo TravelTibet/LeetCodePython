@@ -1,5 +1,5 @@
 """
-@Project ：LeetCodePython 
+@Project ：LeetCode
 @File    ：3_lengthOfLongestSubstring.py
 @IDE     ：PyCharm 
 @Author  ：XiName

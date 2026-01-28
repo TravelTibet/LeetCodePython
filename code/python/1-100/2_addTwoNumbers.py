@@ -1,5 +1,5 @@
 """
-@Project ：LeetCodePython
+@Project ：LeetCode
 @File    ：2_addTwoNumbers.py
 @IDE     ：PyCharm
 @Author  ：XiName
