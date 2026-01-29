@@ -68,7 +68,7 @@ public:
     }
 };
 
-int main(void)
+/*int main(void)
 {
     Solution S;
     //ListNode* pList1 = new ListNode(2, new ListNode(6, new ListNode(9)));
@@ -85,4 +85,4 @@ int main(void)
     }
 
 	return 0;
-}
+}*/
