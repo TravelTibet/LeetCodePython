@@ -1,4 +1,6 @@
-﻿# 记录一下算法学习过程(LeetCode)
+[![Python Package CI](https://github.com/TravelTibet/LeetCode/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/TravelTibet/LeetCode/actions/workflows/python-package-conda.yml)
+
+ # 记录一下算法学习过程(LeetCode)
 
 ## 项目目录分析
 
