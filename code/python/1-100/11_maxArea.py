@@ -1,4 +1,4 @@
-# author: Xiname
+﻿# author: Xiname
 # -*- coding: utf-8 -*-
 # @Time : 2023/12/21 11:40
 # @File ：11_maxArea.py
@@ -27,5 +27,7 @@ class Solution:
         return maxArea
 
 
-s = Solution()
-print(s.maxArea([1,1]))
+if __name__ == '__main__':
+    s = Solution()
+    # print(s.maxArea([1,1]))
+    print(s.maxArea([1, 8, 6, 2, 5, 4, 8, 3, 7]))

@@ -58,11 +58,11 @@ public:
     }
 };
 
-int main(void)
-{
-    Solution S;
-    //int nRes = S.lengthOfLongestSubstring("abcabcwe");
-    int nRes = S.lengthOfLongestSubstring("pwwkew");
-    cout << nRes;
-	return 0;
-}
+//int main(void)
+//{
+//    Solution S;
+//    //int nRes = S.lengthOfLongestSubstring("abcabcwe");
+//    int nRes = S.lengthOfLongestSubstring("pwwkew");
+//    cout << nRes;
+//	return 0;
+//}
