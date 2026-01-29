@@ -132,10 +132,26 @@
     <None Include="..\..\README.md" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\code\cpp\1-100\1.cpp" />
+    <ClInclude Include="bits\stdc++.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="bits\stdc++.h" />
+    <ClCompile Include="..\..\code\cpp\1-100\11_maxArea.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\15_threeSum.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\16_threeSumClosest.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\18_fourSum.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\1_SumOfTwoNumbers.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\26_Remove_duplicates_from_rdered_arrays.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\27_Remove_elements.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\2_addTwoNumbers.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\31_nextPermutation.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\35_Search_insertion_location.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\3_lengthOfLongestSubstring.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\66_Sum_one.cpp" />
+    <ClCompile Include="..\..\code\cpp\1-100\88_Merge_two_sorted_array.cpp" />
+    <ClCompile Include="..\..\code\cpp\101-200\108_sortedArrayToBST.cpp" />
+    <ClCompile Include="..\..\code\cpp\101-200\118_YangHuiTriangle.cpp" />
+    <ClCompile Include="..\..\code\cpp\101-200\119_YangHuiTriangleTwo.cpp" />
+    <ClCompile Include="..\..\code\cpp\101-200\121_maxProfit.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

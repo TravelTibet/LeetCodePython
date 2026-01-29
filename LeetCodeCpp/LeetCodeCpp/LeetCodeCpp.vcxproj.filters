@@ -19,6 +19,9 @@
     <Filter Include="code\1-100">
       <UniqueIdentifier>{963d43ad-7ed0-4077-8470-a97ba49306ff}</UniqueIdentifier>
     </Filter>
+    <Filter Include="code\101-200">
+      <UniqueIdentifier>{319539ed-4918-4307-8c31-5416e83f603f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\README.md" />
@@ -29,8 +32,56 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\code\cpp\1-100\1.cpp">
+    <ClCompile Include="..\..\code\cpp\1-100\1_SumOfTwoNumbers.cpp">
       <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\2_addTwoNumbers.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\3_lengthOfLongestSubstring.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\11_maxArea.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\15_threeSum.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\16_threeSumClosest.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\18_fourSum.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\26_Remove_duplicates_from_rdered_arrays.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\27_Remove_elements.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\31_nextPermutation.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\35_Search_insertion_location.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\66_Sum_one.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\1-100\88_Merge_two_sorted_array.cpp">
+      <Filter>code\1-100</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\101-200\108_sortedArrayToBST.cpp">
+      <Filter>code\101-200</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\101-200\118_YangHuiTriangle.cpp">
+      <Filter>code\101-200</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\101-200\119_YangHuiTriangleTwo.cpp">
+      <Filter>code\101-200</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\cpp\101-200\121_maxProfit.cpp">
+      <Filter>code\101-200</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
